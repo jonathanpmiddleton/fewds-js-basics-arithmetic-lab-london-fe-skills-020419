@@ -17,3 +17,6 @@ var randomNumber=Math.floor(Math.random() *20) + 1;
 const randomInteger=Math.floor(randomNumber);
 
 var randomUserID=randomInteger + 1000000001;
+
+
+//*what's the difference between randomInteger and randomNumber in the final var?*//
